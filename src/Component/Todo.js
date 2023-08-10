@@ -14,6 +14,7 @@ const Todo = (props) => {
                         { props.key} 
                         { props.title} 
                        
+                        <br></br>
                         <br>
                         </br>
                         
